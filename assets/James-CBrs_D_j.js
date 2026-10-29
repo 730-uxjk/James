@@ -1,0 +1,1 @@
+import{j as e}from"./index-BrXnu5SA.js";function t(){return e.jsxs("div",{className:"h-screen w-screen flex flex-col items-center justify-center bg-blue-800",children:[e.jsx("img",{src:"Logo.png",className:" h-[350px]",alt:""}),e.jsx("h1",{className:"text-3xl font-bold underline text-white hover:text-yellow-500",children:"James Karlson Tabanas"})]})}export{t as default};
